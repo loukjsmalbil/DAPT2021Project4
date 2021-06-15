@@ -12,7 +12,7 @@ The technical requirements for this project are as follows:
 
 - Come up with an interesting research question and find data to answer your question. Having a research question or set of questions is particularly important for this project! 
 - Create a Jupyter notebook or Python file to analyze the data.
- - Show at least two confidence intervals, three one-sample and/or two-sample hypothesis tests (z-test and/or t-test).
+ - Show at least two confidence intervals, two one-sample and/or two-sample hypothesis tests (z-test and/or t-test).
  - Feel free to use matplotlib, seaborn, or plotly as you see fit to best convey
    the message and the story behind the data.
 
