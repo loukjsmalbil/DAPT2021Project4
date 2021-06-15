@@ -51,7 +51,6 @@ These files should be self sufficient. Someone with no exposure to the problem s
 
 * __Code Quality__: Did you follow code style guidance and best practices covered in class?
 
-This will be useful as an overall gauge of whether you met the project goals, but __the more important scores are described in the specs above__, which can help you identify where to focus your efforts for the next project!
 
 
 
