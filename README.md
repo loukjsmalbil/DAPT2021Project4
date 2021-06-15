@@ -34,8 +34,7 @@ The technical requirements for this project are as follows:
 ## Necessary Deliverables
 
 * **Project repository** 
-* Your repository must be clean and organized; this means that it must include a **.gitignore**  file that blocks any images and datafiles, a **README file** and also have a functional file structure. As template you could use the repository you created  for project2
-* **An empty data folder** with a readme file inside that explains the data set
+* Your repository must be clean and organized; this means that it must include a **README file** and also have a functional file structure. 
 * Your README file must clearly include which topic you chose and which are the questions you would like to find an answer to.
 
 * **Python files Jupyter notebooks**
@@ -53,4 +52,6 @@ These files should be self sufficient. Someone with no exposure to the problem s
 * __Code Quality__: Did you follow code style guidance and best practices covered in class?
 
 This will be useful as an overall gauge of whether you met the project goals, but __the more important scores are described in the specs above__, which can help you identify where to focus your efforts for the next project!
-Collapse
+
+
+
