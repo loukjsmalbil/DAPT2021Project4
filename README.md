@@ -16,15 +16,14 @@ The technical requirements for this project are as follows:
  - Create at least two confidence intervals, two one-sample hypothesis tests (z-test and/or t-test), two two-sample hypothesis tests (z-test and/or t-test). 
  - Feel free to use matplotlib, seaborn, or plotly as you see fit to best convey
    the message and the story behind the data.
-- Store your data in a SQL Database. 
 ​
 ## Presentation Guideline and Criteria
 ​
 ### Format
 ​
-* Presentation Time: 12 minutes max.
-* Q & A: 3 minutes.
-* **Total Time:** 15 minutes.
+* Presentation Time: 15 minutes max.
+* Q & A: 5 minutes.
+* **Total Time:** 20 minutes.
 ​
 ### Outputs
 ​
@@ -49,7 +48,7 @@ The following deliverables should **NOT** be pushed to your group's repository
 but stored on your group folder [here](https://drive.google.com/drive/folders/1zIDpffMj5iQ5xKKGV3nSKM38buvRM6jp?usp=sharing) 
 ​
 - **A presentation deck (slides)** containing your analysis and your visualisations.
-- **DATA** Please do not upload any data to the repository but place a link to the data in your jupyter notebook as we usually do. You can then ask the reader in the notebook to download the data and place them locally in the provided empty data folder. Remember to use relative paths in the notebook. The link in the notebook can point to the original data set or to your group's data folder on google drive [here](https://drive.google.com/drive/folders/1zIDpffMj5iQ5xKKGV3nSKM38buvRM6jp?usp=sharing) <br>
+- **DATA** Please upload any data to the repository.
  
 ## Useful questions to ask yourself
 ​
