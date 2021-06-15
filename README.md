@@ -4,8 +4,7 @@
 ​
 ## Overview
 The goal of this project is to practice all the skills you've learnt so far. The focus of this project in particular is on statistics. 
-​
----
+
 ​
 ## Technical Requirements
 ​
